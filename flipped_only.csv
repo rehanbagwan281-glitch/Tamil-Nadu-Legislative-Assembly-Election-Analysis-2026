@@ -1,0 +1,145 @@
+ac_number,constituency,party_2021,party_2026,flipped
+2,Ponneri,INC,TVK,True
+3,Tiruttani,DMK,AIADMK,True
+4,Thiruvallur,DMK,TVK,True
+5,Poonamallee,DMK,TVK,True
+6,Avadi,DMK,TVK,True
+7,Maduravoyal,DMK,TVK,True
+8,Ambattur,DMK,TVK,True
+9,Madavaram,DMK,TVK,True
+10,Thiruvottiyur,DMK,TVK,True
+12,Perambur,DMK,TVK,True
+13,Kolathur,DMK,TVK,True
+14,Villivakkam,DMK,TVK,True
+15,Thiru-Vi-Ka-Nagar,DMK,TVK,True
+16,Egmore,DMK,TVK,True
+17,Royapuram,DMK,TVK,True
+20,Thousand Lights,DMK,TVK,True
+21,Anna Nagar,DMK,TVK,True
+22,Virugampakkam,DMK,TVK,True
+23,Saidapet,DMK,TVK,True
+25,Mylapore,DMK,TVK,True
+26,Velachery,INC,TVK,True
+27,Shozhinganallur,DMK,TVK,True
+28,Alandur,DMK,TVK,True
+29,Sriperumbudur,INC,TVK,True
+30,Pallavaram,DMK,TVK,True
+31,Tambaram,DMK,TVK,True
+32,Chengalpattu,DMK,TVK,True
+33,Thiruporur,VCK,TVK,True
+34,Cheyyur,VCK,AIADMK,True
+36,Uthiramerur,DMK,TVK,True
+37,Kancheepuram,DMK,TVK,True
+40,Katpadi,DMK,TVK,True
+41,Ranipet,DMK,TVK,True
+42,Arcot,DMK,AIADMK,True
+43,Vellore,DMK,TVK,True
+44,Anaikattu,DMK,AIADMK,True
+45,Kilvaithinankuppam,AIADMK,TVK,True
+49,Jolarpet,DMK,AIADMK,True
+50,Tiruppattur,DMK,TVK,True
+51,Uthangarai,AIADMK,TVK,True
+52,Bargur,DMK,AIADMK,True
+53,Krishnagiri,AIADMK,TVK,True
+54,Veppanahalli,AIADMK,DMK,True
+55,Hosur,DMK,AIADMK,True
+58,Pennagaram,PMK,TVK,True
+62,Chengam,DMK,AIADMK,True
+64,Kilpennathur,DMK,AIADMK,True
+65,Kalasapakkam,DMK,AIADMK,True
+66,Polur,AIADMK,TVK,True
+68,Cheyyar,DMK,AIADMK,True
+70,Gingee,DMK,PMK,True
+71,Mailam,PMK,AIADMK,True
+72,Tindivanam,AIADMK,VCK,True
+73,Vanur,AIADMK,DMK,True
+75,Vikravandi,DMK,PMK,True
+76,Tirukkoyilur,DMK,AIADMK,True
+79,Sankarapuram,DMK,AIADMK,True
+80,Kallakurichi,AIADMK,TVK,True
+85,Mettur,PMK,AIADMK,True
+88,Salem (West),PMK,TVK,True
+89,Salem (North),DMK,TVK,True
+90,Salem (South),AIADMK,TVK,True
+91,Veerapandi,AIADMK,TVK,True
+92,Rasipuram,DMK,TVK,True
+94,Namakkal,DMK,TVK,True
+97,Kumarapalayam,AIADMK,TVK,True
+98,Erode (East),INC,TVK,True
+99,Erode (West),DMK,TVK,True
+101,Dharapuram,DMK,AIADMK,True
+102,Kangayam,DMK,AIADMK,True
+105,Anthiyur,DMK,AIADMK,True
+106,Gobichettipalayam,AIADMK,TVK,True
+107,Bhavanisagar,AIADMK,TVK,True
+108,Udhagamandalam,INC,BJP,True
+109,Gudalur,AIADMK,DMK,True
+112,Avanashi,AIADMK,TVK,True
+113,Tiruppur (North),AIADMK,TVK,True
+114,Tiruppur (South),DMK,TVK,True
+115,Palladam,AIADMK,TVK,True
+116,Sulur,AIADMK,TVK,True
+117,Kavundampalayam,AIADMK,TVK,True
+121,Singanallur,AIADMK,TVK,True
+122,Kinathukadavu,AIADMK,TVK,True
+123,Pollachi,AIADMK,DMK,True
+124,Valparai,AIADMK,DMK,True
+126,Madathukulam,AIADMK,DMK,True
+127,Palani,DMK,AIADMK,True
+132,Dindigul,AIADMK,DMK,True
+135,Karur,DMK,AIADMK,True
+136,Krishnarayapuram,DMK,TVK,True
+138,Manapparai,DMK,TVK,True
+139,Srirangam,DMK,TVK,True
+143,Lalgudi,DMK,AIADMK,True
+145,Musiri,DMK,TVK,True
+146,Thuraiyur,DMK,TVK,True
+147,Perambalur,DMK,TVK,True
+149,Ariyalur,DMK,AIADMK,True
+150,Jayankondam,DMK,PMK,True
+152,Vriddhachalam,INC,DMDK,True
+153,Neyveli,DMK,AIADMK,True
+154,Panruti,DMK,AIADMK,True
+155,Cuddalore,DMK,TVK,True
+158,Chidambaram,AIADMK,DMK,True
+163,Nagapattinam,VCK,DMK,True
+167,Mannargudi,DMK,AMMK,True
+171,Kumbakonam,DMK,TVK,True
+172,Papanasam,DMK,IUML,True
+174,Thanjavur,DMK,TVK,True
+178,Gandharvakottai,CPI(M),TVK,True
+184,Karaikudi,INC,TVK,True
+185,Tiruppattur,DMK,TVK,True
+186,Sivaganga,AIADMK,TVK,True
+187,Manamadurai,DMK,TVK,True
+188,Melur,AIADMK,INC,True
+189,Madurai East,DMK,TVK,True
+190,Sholavandan,DMK,TVK,True
+191,Madurai North,DMK,TVK,True
+192,Madurai South,DMK,TVK,True
+193,Madurai Central,DMK,TVK,True
+194,Madurai West,AIADMK,TVK,True
+195,Thiruparankundram,AIADMK,TVK,True
+196,Thirumangalam,AIADMK,DMK,True
+197,Usilampatti,AIADMK,TVK,True
+199,Periyakulam,DMK,TVK,True
+200,Bodinayakanur,AIADMK,DMK,True
+201,Cumbum,DMK,TVK,True
+202,Rajapalayam,DMK,TVK,True
+203,Srivilliputhur,AIADMK,TVK,True
+205,Sivakasi,INC,TVK,True
+206,Virudhunagar,DMK,TVK,True
+210,Tiruvadanai,INC,TVK,True
+214,Thoothukkudi,DMK,TVK,True
+216,Srivaikuntam,INC,TVK,True
+217,Ottapidaram,DMK,TVK,True
+218,Kovilpatti,AIADMK,DMK,True
+219,Sankarankovil,DMK,AIADMK,True
+221,Kadayanallur,AIADMK,DMK,True
+222,Tenkasi,INC,DMK,True
+223,Alangulam,AIADMK,DMK,True
+224,Tirunelveli,BJP,TVK,True
+227,Nanguneri,INC,TVK,True
+228,Radhapuram,DMK,TVK,True
+230,Nagercoil,BJP,DMK,True
+232,Padmanabhapuram,DMK,CPI(M),True

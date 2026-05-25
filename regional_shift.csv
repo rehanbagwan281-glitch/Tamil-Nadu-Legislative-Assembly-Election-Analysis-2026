@@ -1,0 +1,40 @@
+region,party,seats_2021,seats_2026,seat_change
+Central,AIADMK,15.0,15.0,0.0
+Central,DMDK,0.0,1.0,1.0
+Central,DMK,21.0,8.0,-13.0
+Central,INC,1.0,0.0,-1.0
+Central,PMK,3.0,3.0,0.0
+Central,TVK,0.0,12.0,12.0
+Central,VCK,1.0,2.0,1.0
+Chennai Metro,AIADMK,0.0,1.0,1.0
+Chennai Metro,DMK,29.0,2.0,-27.0
+Chennai Metro,INC,3.0,0.0,-3.0
+Chennai Metro,TVK,0.0,29.0,29.0
+Delta,AIADMK,4.0,4.0,0.0
+Delta,AMMK,0.0,1.0,1.0
+Delta,CPI,1.0,1.0,0.0
+Delta,CPI(M),2.0,1.0,-1.0
+Delta,DMK,23.0,14.0,-9.0
+Delta,INC,2.0,1.0,-1.0
+Delta,IUML,0.0,1.0,1.0
+Delta,TVK,0.0,10.0,10.0
+Delta,VCK,1.0,0.0,-1.0
+Kongu,AIADMK,19.0,7.0,-12.0
+Kongu,BJP,2.0,1.0,-1.0
+Kongu,DMK,10.0,9.0,-1.0
+Kongu,INC,2.0,0.0,-2.0
+Kongu,TVK,0.0,16.0,16.0
+North,AIADMK,12.0,15.0,3.0
+North,CPI,1.0,1.0,0.0
+North,DMK,19.0,4.0,-15.0
+North,INC,1.0,0.0,-1.0
+North,IUML,0.0,1.0,1.0
+North,PMK,2.0,1.0,-1.0
+North,TVK,0.0,15.0,15.0
+North,VCK,2.0,0.0,-2.0
+South,AIADMK,16.0,5.0,-11.0
+South,BJP,2.0,0.0,-2.0
+South,CPI(M),0.0,1.0,1.0
+South,DMK,31.0,22.0,-9.0
+South,INC,9.0,4.0,-5.0
+South,TVK,0.0,26.0,26.0
